@@ -1,0 +1,1 @@
+to run project use python -m uvicorn app.main:app --reload
